@@ -40,4 +40,4 @@ $ bundle exec whenever --clear-cron
 
 API
 ---------------
-see [wiki](http://hoge.com)
+see [wiki](https://github.com/otms61/LunchWith_Server/wiki)
