@@ -1,0 +1,38 @@
+{
+  "me": {
+      "name": "Masanori Sotozaki",
+      "image_url": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/s200x200/1237044_379885545473999_1850688442_n.jpg?oh=14e21e2ebac8b348a2e505518a7002f5&oe=55887102&__gda__=1434553529_e744ceee6a8c649491ed15b834a14ce9"
+    },
+    "status": "arrange_time",
+    "my_coupon": {
+      "id": 2,
+      "store_name": "焼肉　ビーフマスター",
+      "contents": "ランチ50円引き！",
+      "address": "焼肉　ビーフマスター",
+      "latitude": 35.709237,
+      "longitude": 139.71128,
+      "limit": 1424772000,
+      "tel": "050-5572-7656",
+      "store_image_url": "https://s3-ap-northeast-1.amazonaws.com/lunchwith/img/%E3%83%92%E3%82%99%E3%83%BC%E3%83%95%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC.jpg",
+      "usage_time": {
+        "from": 1424779200,
+        "to": 1424793600
+      },
+      "friends": [
+        {
+          "name": "空　太郎",
+          "image_url": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/s200x200/224769_160920580638702_6577818_n.jpg?oh=30e5f7cd5919f85cfb2bee987c034acd&oe=558BFB96&__gda__=1431052706_27ae96f271a2bf4da6a578b55949bf43"
+        },
+        {
+          "name": "海　太郎",
+          "image_url": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/p160x160/10993405_1392124051098665_1243366470582216707_n.jpg?oh=15ba669a8eba734ca6f1dc8f6319b3cc&oe=55859F99&__gda__=1435761621_cb76d76e3c519ddabcff6f53e93c8b6a"
+        }
+      ]
+    },
+    "matching": {
+      "name": "Takeshi Ihara ",
+      "image_url": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/p200x200/10417552_614728208656891_1973806252622734131_n.jpg?oh=65c6662909d2068d7aafba96dd784028&oe=55805EDF&__gda__=1431758905_82f25cea8b928aaf851eb0287fbbb8e2 ",
+      "time_from": 1424779200,
+      "time_to": 1424781000
+    }
+}

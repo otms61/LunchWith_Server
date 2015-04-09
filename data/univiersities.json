@@ -1,0 +1,14 @@
+[
+	{
+		"university_id": 1,
+		"name": "東工大"
+	},
+	{
+		"university_id": 2,
+		"name": "北海道大"
+	},
+	{
+		"university_id": 3,
+		"name": "早稲田"
+	}
+]

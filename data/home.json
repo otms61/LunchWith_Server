@@ -1,0 +1,19 @@
+{
+"status": "pre_matchig",
+"coupons":[
+   {
+    "name": "coupon1",
+    "id": 1,
+    "shop_name": "hoge shop",
+    "description": "100円引き",
+    "limit": 1423825200
+    },
+  {
+    "name": "coupon2",
+    "id": 2,
+    "shop_name": "hoge shop",
+    "description": "100円引き",
+    "limit": 1423827000
+    }
+  ]
+}

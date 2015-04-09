@@ -1,0 +1,36 @@
+User 
+	name
+	facebook_id
+	facebook_token
+	university_id
+	device_token <- ???
+
+Friends
+	user1
+	user2
+
+UsersCoupons
+	user_id
+	coupon_id
+	status
+
+Store
+  //お店の場所を表現するのに情報が足りてる？
+	name
+	desc
+	address
+	shop_url
+
+StoresUniversities
+	store_id
+	univerisity_id
+
+Coupon
+	name
+	store_id
+	desc
+	limit
+
+University
+	name
+	desc

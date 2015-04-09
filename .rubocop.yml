@@ -1,0 +1,30 @@
+AllCops:
+  RunRailsCops: true
+  Include:
+    - '**/Gemfile'
+    - '**/Rakefile'
+  Exclude:
+   - 'bin/*'
+   - 'db/seeds.rb'
+   - 'db/schema.rb'
+   - 'db/migrate/*'
+   - 'vendor/bundle/**/*'
+
+Metrics/LineLength:
+  Max: 128
+  AllowURI: true
+  URISchemes:
+    - http
+    - https
+
+Style/Documentation:
+  Enabled: false
+
+Style/ClassAndModuleChildren:
+  Enabled: false
+
+Style/RedundantSelf:
+  Enabled: false
+
+Style/GuardClause:
+  MinBodyLength: 3

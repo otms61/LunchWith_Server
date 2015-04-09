@@ -1,0 +1,33 @@
+{
+    "me": {
+      "name": "陸　経路",
+      "image_url": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/c15.0.50.50/p50x50/10354686_10150004552801856_220367501106153455_n.jpg?oh=d1b249dee67d136b8ffe3f1a8b006073&oe=555C1C2F&__gda__=1432407769_d1bdf1bd786151f62fbe372052d84a61"
+    },
+    "status": "pre_matching",
+    "my_coupon": {
+      "id": 2,
+      "store_name": "TECK LAB PAAK",
+      "contents": "コーラ　100円引き",
+      "address": "東京都渋谷区神南1-20-9-6F",
+      "latitude": 35.6619661,
+      "longitude": 139.699851,
+      "limit": 1424998800,
+      "tel": "080-8096-6255",
+      "store_image_url": "https://s3-ap-northeast-1.amazonaws.com/lunchwith/img/logo_paak.png",
+      "usage_time": {
+        "from": 1425002400,
+        "to": 1425020400
+      },
+      "friends": [
+        {
+          "name": "空　太郎",
+          "image_url": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/c15.0.50.50/p50x50/10354686_10150004552801856_220367501106153455_n.jpg?oh=d1b249dee67d136b8ffe3f1a8b006073&oe=555C1C2F&__gda__=1432407769_d1bdf1bd786151f62fbe372052d84a61"
+        },
+        {
+          "name": "海　太郎",
+          "image_url": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/c128.37.463.463/s50x50/224769_160920580638702_6577818_n.jpg?oh=e30f834ac26ba2d1c93f1a0103dca46c&oe=555A90BD&__gda__=1431562680_1709624a1e9514c665776ebfa53373d1"
+        }
+      ]
+    },
+    "matching": null
+}
