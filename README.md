@@ -40,4 +40,4 @@ $ bundle exec whenever --clear-cron
 
 API
 ---------------
-see [wiki](http://hoge.com)
+see [wiki](wiki)
