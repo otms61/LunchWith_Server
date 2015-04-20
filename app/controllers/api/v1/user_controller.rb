@@ -9,7 +9,7 @@ class Api::V1::UserController < Api::V1::ApplicationController
   def create
     user = User.where(facebook_token: params[:facebook_token]).first
     unless user.nil?
-      render json: { message: 'this facebook token is used' }
+      render json: { message: 'this facebook token is used' }, status: :bad_request
       return
     end
 

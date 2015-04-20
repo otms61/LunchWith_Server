@@ -14,7 +14,7 @@ class Api::V1::CouponController < Api::V1::ApplicationController
     if @user_coupon.save
       @user.update_attributes(status: :pre_matching)
     else
-      render json: { error: 1, message: :unprocessable_entity }
+      render json: { error: 1, message: :unprocessable_entity }, status: :bad_request
       return
     end
   end
